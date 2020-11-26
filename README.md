@@ -6,3 +6,6 @@ Pneumonia is an inflammatory condition of the lung affecting primarily the small
 <p align='center'>
      <img src="https://github.com/AkshitTayade/Pneumonia-Detection-using-Deep-Learning/blob/main/pneumonia.png" alt="GIF" />
 </p>
+
+## Objective
+The aim of this project is to provide all the tips and tricks required to train image classification model on Pneumonia image dataset in a single page. This  will hold almost all steps and steps required to implement image classification algorithm using CNN Pnemonia Dataset. It could be a great time saver for you. Just utilize it anytime when you are working on Image Classification.
